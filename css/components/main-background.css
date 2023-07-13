@@ -1,9 +1,16 @@
 .main-background
 {
-    
+    display: flex;
+    opacity: .70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-left: initial;
 }
 
 .main-background.-first
 {
-
+   background-image: url(../../images/BG-first.jpg);
+   height: 100vh; 
 }
