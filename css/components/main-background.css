@@ -1,0 +1,14 @@
+.main-background
+{
+    opacity: 0.70;
+    background-size: 100%;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.main-background.-first
+{
+    height: 100vh;
+    background-image: url(../../images/BG-first.jpg);
+}
