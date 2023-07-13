@@ -1,4 +1,17 @@
 .main-section
 {
-    
+    background-color: #282e34;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.main-section .title
+{
+    font-size: 35px
+}
+
+.main-section .text
+{
+    font-size: 20px;
 }
