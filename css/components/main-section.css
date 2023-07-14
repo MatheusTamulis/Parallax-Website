@@ -5,3 +5,9 @@
     color: #666;
     padding: 60px 80px;
 }
+
+.main-section.-bgBlack
+{
+    background-color: #282e34;
+    color: #fff;
+}

@@ -6,11 +6,16 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    padding-left: initial;
 }
 
 .main-background.-first
 {
    background-image: url(../../images/BG-first.jpg);
    height: 100vh; 
+}
+
+.main-background.-second
+{
+    background-image: url(../../images/BG-Second.jpg);
+    height: 400px;
 }

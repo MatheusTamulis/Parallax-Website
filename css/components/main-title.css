@@ -12,3 +12,13 @@
     text-transform: uppercase;
     font-weight: 300;
 }
+
+.main-title.-bgTransparent
+{
+    background-color: transparent;
+}
+
+.main-title.-font-size
+{
+    font-size: 35px;
+}
