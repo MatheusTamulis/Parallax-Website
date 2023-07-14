@@ -19,3 +19,9 @@
     background-image: url(../../images/BG-Second.jpg);
     height: 400px;
 }
+
+.main-background.-third
+{
+    background-image: url(../../images/BG-Three.jpg);
+    height: 380px;
+}
